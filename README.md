@@ -1,4 +1,4 @@
-# !!!LEIA-ME!!!
+# LEIA-ME!
 
 ### Alo alo camarada
 
